@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Natalie, a Software Engineer with experience building fullstack applications.
 - 👀 I’m interested in building beautiful & creative apps that solves problems.
-- 💞️ I’m proficient in JavaScript, React, Redux, Express, Node, PostgreSQL, Bootstrap, CSS, HTML
-- 🌱 I’m currently learning React Hooks, GraphQL, TypeScript and exploring different ways to optimize my code!
+- 💞️ I’m proficient in JavaScript, TypeScript, React, Redux, MobX, React Native, Express, Node, PostgreSQL, Bootstrap, CSS, HTML
+- 🌱 I’m currently learning different ways to optimize my code for better performance!
 - 📫 How to reach me at natalie.rojas113@gmail.com
